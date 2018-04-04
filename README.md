@@ -1,2 +1,3 @@
 # phantasma-morph
 This is where it all began...
+To clone: mirror and reflect. Use interaction data for ai bot. Develop environment for simulation. Create complex intelligence by simulated volume.
